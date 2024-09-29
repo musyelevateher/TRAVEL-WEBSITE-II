@@ -1,0 +1,152 @@
+.travel {
+display: flex;
+justify-content: space-between;
+margin: auto;
+height: 1px;
+font-family: Gilda Display;
+font-size: 16px;
+font-weight: 400;
+line-height: 18.83px;
+letter-spacing: 0.1em;
+text-align: left;
+}
+.nav {
+width: 375px;
+margin: auto;
+}
+.harmburger-menu {
+display: flex;
+margin-right: 100px;
+margin-top: 1px;
+width: 24px;
+height: 24px;
+}
+.journey {
+margin: auto;
+margin-left: 400px;
+margin-top: 100px;
+font-family: Gilda Display;
+font-size: 20px;
+font-weight: 400;
+line-height: 65px;
+text-align: center;
+width: 375px;
+transform: translateY(100%);
+}
+.span {
+  color: #25A59E;
+}
+.image-container {
+  position: absolute;
+  max-width: 432px;
+  margin:auto;
+  margin-top: -150px;
+  
+}
+.blurry {
+ width: 400px;
+ height: 400px;
+  color: #44D5CD;
+  margin: auto;
+  margin-left: 400px;
+  }
+  .ellipse {
+    width: 333px;
+    height: 211px;
+    color: #EE8F39;
+    margin-left: 400px;
+    margin-top: -100px;
+    transform: translateY(-25%);
+  }
+  .image-A {
+    margin: auto;
+    width: 432px;
+    transform: translateY(-128%);
+    margin-left: 350px;
+    height: 200px;
+  }
+  .destination {
+    transform: translateY(220%);
+    margin-left: 380px;
+  }
+  .destination p {
+    width: 335px;
+    font-family: "Gilda display";
+    font-weight: 400;
+    font-size: 40px;
+    height: 104px;
+    
+}
+.destination h1 {
+  font-family: "urbanist";
+  font-weight: 500;
+  font-size: 16px;
+  line height: 24px;
+  width: 335px;
+  height:4px;
+}
+.container {
+  margin: auto;
+  margin-left: 350px;
+  transform: translateY(15%);
+  
+}
+.rotate {
+  transform: rotate(-180deg);
+}
+.lake {
+  width: 350px;
+  border:   #F2F2F2;
+  font-family: "Urbanist";
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  padding: 10px;
+  }
+.location {
+margin: auto;
+ margin-top: -25x;
+margin-right: 5px;
+}
+.location h3 {
+  margin-top: -40px;
+  padding-left: 35px;
+  font-family: "urbanist";
+  font-weight: 600;
+  font-size: 18px;
+  line height: 32px;
+}
+.choose {
+  margin-top: 400px;
+  margin-left: 400px;
+}
+.choose p {
+  font-family: "Gilda display";
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 52px;
+  text-align: center;
+  margin-left: -500px;
+  margin-top: -30px;
+  color: #262626;
+}
+.choose h1 {
+  font-family: "urbanist";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #595959;
+margin-left: -500px;
+}
+.listcard {
+  margin-left: 450px;
+  margin-top: -1px;
+  gap: 40px;
+  width: 335px;
+  height: 257px;
+}
+.card {
+  border: solid #fdfafa; 
+  background-color: #FFFFFF;
+}
