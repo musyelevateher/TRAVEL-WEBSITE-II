@@ -271,3 +271,23 @@ margin-left: -500px;
   .video {
     width: 100%
    }
+   .header-container {
+    margin-left: 450px;
+   }
+   .offer {
+    font-family: "Gilda display";
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+    width: 335px;
+   }
+   .click {
+    width: 147px;
+    font-family: "urbanist";
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 50px;
+    color: #FFFFFF;
+    background-color:  #25A59E;
+    margin-top: -450px;
+  }
