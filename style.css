@@ -6,7 +6,7 @@ display: flex;
 justify-content: space-between;
 margin: auto;
 height: 1px;
-font-family: Gilda Display;
+font-family: "Gilda Display";
 font-size: 16px;
 font-weight: 400;
 line-height: 18.83px;
@@ -28,7 +28,7 @@ height: 24px;
 margin: auto;
 margin-left: 400px;
 margin-top: 100px;
-font-family: Gilda Display;
+font-family: "Gilda Display";
 font-size: 20px;
 font-weight: 400;
 line-height: 65px;
@@ -82,7 +82,7 @@ height: 104px;
 font-family: "urbanist";
 font-weight: 500;
 font-size: 16px;
-line height: 24px;
+line-height: 24px;
 width: 335px;
 height:4px;
 }
@@ -125,7 +125,7 @@ padding-left: 35px;
 font-family: "urbanist";
 font-weight: 600;
 font-size: 18px;
-line height: 32px;
+line-height: 32px;
 }
 .choose {
 margin-top: 400px;
@@ -214,119 +214,117 @@ width: 295px;
 color: #FFFFFF;
 }
 .text-1 {
-  font-family: "Gilda display";
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 17.66px;
-  margin-left: 150px;
-  color: #FFFFFF;
+font-family: "Gilda display";
+font-weight: 400;
+font-size: 15px;
+line-height: 17.66px;
+margin-left: 150px;
+color: #FFFFFF;
 }
 .memory {
-  margin-top: 500px;;
-  margin-left: 400px;
-  }
-  .make {
-    font-family: "gilda display";
-    font-weight: 400;
-    font-size: 40px;
-    line-height:  52px;
-  }
-  .thousands {
-    font-family: "urbanist";
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    margin-top: -10px;
-  }
-  .arrow {
-    width: 335px; 
-    height: 350px;
-    color: #25A59E;
-
-  }
+margin-top: 500px;;
+margin-left: 400px;
+}
+.make {
+font-family: "gilda display";
+font-weight: 400;
+font-size: 40px;
+line-height:  52px;
+}
+.thousands {
+font-family: "urbanist";
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+margin-top: -10px;
+}
+.arrow {
+width: 335px; 
+height: 350px;
+color: #25A59E;
+}
 .travellers {
-  width: 335px;
-  margin-left: -350px;
-  transform: translateY(-100px);
-  }
-  .trip {
-    margin-left: 450px;
-    font-family: "gilda display";
-    font-weight: 400;
-    font-size: 28px;
-    line-height: 80px;
-    margin-top: -80px;
-    color: #262626;
-    width: 335px;
-
-  }
-  .center {
-  margin-left: 140px;
-  }
-  .movie {
-    width: 375px;
-    margin-left: 400px;
+width: 335px;
+margin-left: -350px;
+transform: translateY(-100px);
+}
+.trip {
+margin-left: 450px;
+font-family: "gilda display";
+font-weight: 400;
+font-size: 28px;
+line-height: 80px;
+margin-top: -80px;
+color: #262626;
+width: 335px;
+}
+.center {
+margin-left: 140px;
+}
+.movie {
+width: 375px;
+margin-left: 400px;
 }
 .header-container {
-    margin-left: 400px;
+margin-left: 400px;
 }
 .offer {
-    font-family: "Gilda display";
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 52px;
-    width: 335px;
+font-family: "Gilda display";
+font-weight: 400;
+font-size: 40px;
+line-height: 52px;
+width: 335px;
 }
 .click {
-    width: 147px;
-    font-family: "urbanist";
-    font-weight: 600;
-    font-size: 18px;
-    line-height: 50px;
-    color: #FFFFFF;
-    background-color:  #25A59E;
-    margin-top: -450px;
-    top: 0;
-    left: 0;
-    border: 0px;
-  }
-  .notification {
-    margin-left: 400px;
-    width: 375px;
-    margin-top: 80px;
-  }
-  .movement {
-    font-family: "Gilda display";
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 18.83px;
-  }
-  .agent {
-    font-family: "urbanist";
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    color: #595959;
-  }
-  .social-link {
-    margin-left: 550px;
-  }
-  .bird {
-    margin-top: -40px;
-    margin-left: 50px;
-  }
-  .youtube {
-    margin-top: -40px;
-    margin-left: 70px;
+width: 147px;
+font-family: "urbanist";
+font-weight: 600;
+font-size: 18px;
+line-height: 50px;
+color: #FFFFFF;
+background-color:  #25A59E;
+margin-top: -450px;
+top: 0;
+left: 0;
+border: 0px;
+}
+.notification {
+margin-left: 400px;
+width: 375px;
+margin-top: 80px;
+}
+.movement {
+font-family: "Gilda display";
+font-weight: 400;
+font-size: 16px;
+line-height: 18.83px;
+}
+.agent {
+font-family: "urbanist";
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #595959;
+}
+.social-link {
+margin-left: 550px;
+}
+.bird {
+margin-top: -40px;
+margin-left: 50px;
+}
+.youtube {
+margin-top: -40px;
+margin-left: 70px;
 }
 .header-links {
-  margin-left: 400px;
-  display: inline-flex;
-  gap: 30px;
-  font-family: "urbanist";
-  font-weight: 600;
-  font-size: 16px;
-  line-height: 24px;
-  color: #595959;
-  padding-top: 30px;
+margin-left: 400px;
+display: inline-flex;
+gap: 30px;
+font-family: "urbanist";
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+color: #595959;
+padding-top: 30px;
 }
