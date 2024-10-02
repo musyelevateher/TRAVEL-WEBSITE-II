@@ -27,7 +27,7 @@ height: 24px;
 .journey {
 margin: auto;
 margin-left: 400px;
-margin-top: 100px;
+margin-top: -100px;
 font-family: "Gilda Display";
 font-size: 20px;
 font-weight: 400;
@@ -164,6 +164,7 @@ margin-top: 10px;
 width: 335px;
 height: 4px;
 background-color: #25A59E;
+margin-left: -5px;
 }
 .title {
 font-family: "Gilda display";
@@ -197,6 +198,7 @@ height: 16px;
 }
 .card-1 {
   background-color: #25A59E;
+  margin-top: 15px;
 }
 .title-1 {
 font-family: "Gilda display";
