@@ -37,55 +37,54 @@ width: 375px;
 transform: translateY(100%);
 }
 .span {
-  color: #25A59E;
+color: #25A59E;
 }
 .image-container {
-  position: absolute;
-  max-width: 432px;
-  margin:auto;
-  margin-top: -150px;
-  
+position: absolute;
+max-width: 432px;
+margin:auto;
+margin-top: -150px;
 }
 .blurry {
- width: 400px;
- height: 400px;
-  color: #44D5CD;
-  margin: auto;
-  margin-left: 400px;
-  }
-  .ellipse {
-    width: 333px;
-    height: 211px;
-    color: #EE8F39;
-    margin-left: 400px;
-    margin-top: -100px;
-    transform: translateY(-25%);
-  }
-  .image-A {
-    margin: auto;
-    width: 432px;
-    transform: translateY(-128%);
-    margin-left: 350px;
-    height: 200px;
-  }
-  .destination {
-    transform: translateY(220%);
-    margin-left: 380px;
-  }
-  .destination p {
-    width: 335px;
-    font-family: "Gilda display";
-    font-weight: 400;
-    font-size: 40px;
-    height: 104px;
-  }
+width: 400px;
+height: 400px;
+color: #44D5CD;
+margin: auto;
+margin-left: 400px;
+}
+.ellipse {
+width: 333px;
+height: 211px;
+color: #EE8F39;
+margin-left: 400px;
+margin-top: -100px;
+transform: translateY(-25%);
+}
+.image-A {
+margin: auto;
+width: 432px;
+transform: translateY(-128%);
+margin-left: 350px;
+height: 200px;
+}
+.destination {
+transform: translateY(220%);
+margin-left: 380px;
+}
+.destination p {
+width: 335px;
+font-family: "Gilda display";
+font-weight: 400;
+font-size: 40px;
+height: 104px;
+}
 .destination h1 {
-  font-family: "urbanist";
-  font-weight: 500;
-  font-size: 16px;
-  line height: 24px;
-  width: 335px;
-  height:4px;
+font-family: "urbanist";
+font-weight: 500;
+font-size: 16px;
+line height: 24px;
+width: 335px;
+height:4px;
 }
 .container {
 margin: auto;
@@ -93,16 +92,16 @@ margin-left: 350px;
 transform: translateY(15%);
 }
 .name {
-  font-family: "urbanist";
-  font-weight: 700;
-  font-size: 20px;
-  line-height: 28px;
+font-family: "urbanist";
+font-weight: 700;
+font-size: 20px;
+line-height: 28px;
 }
 .country {
-  font-family: "urbanist";
-  font-weight: 600;
-  font-size: 16px;
-  line-height: 24px;
+font-family: "urbanist";
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
 }
 .rotate {
 transform: rotate(-180deg);
@@ -121,95 +120,98 @@ margin: auto;
 margin-top: -5px;
 }
 .location h3 {
-  margin-top: -35px;
-  padding-left: 35px;
-  font-family: "urbanist";
-  font-weight: 600;
-  font-size: 18px;
-  line height: 32px;
+margin-top: -35px;
+padding-left: 35px;
+font-family: "urbanist";
+font-weight: 600;
+font-size: 18px;
+line height: 32px;
 }
 .choose {
-  margin-top: 400px;
-  margin-left: 400px;
+margin-top: 400px;
+margin-left: 400px;
 }
 .choose p {
-  font-family: "Gilda display";
-  font-weight: 400;
-  font-size: 40px;
-  line-height: 52px;
-  text-align: center;
-  margin-left: -500px;
-  margin-top: -30px;
-  color: #262626;
+font-family: "Gilda display";
+font-weight: 400;
+font-size: 40px;
+line-height: 52px;
+text-align: center;
+margin-left: -500px;
+margin-top: -30px;
+color: #262626;
 }
 .choose h1 {
-  font-family: "urbanist";
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  text-align: center;
-  color: #595959;
+font-family: "urbanist";
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+color: #595959;
 margin-left: -500px;
 }
 .listcard {
-  margin-left: 430px;
-  width: 335px;
-  height: 257px;
+margin-left: 430px;
+width: 335px;
+height: 257px;
 }
 .card {
-  border: solid #fdfafa;
-  background-color: #FFFFFF;
+border: solid #fdfafa;
+background-color: #FFFFFF;
+margin-top: 10px;
 }
 .listtop {
-  width: 335px;
-  height: 4px;
-  background-color: #25A59E;
+width: 335px;
+height: 4px;
+background-color: #25A59E;
 }
 .title {
-  font-family: "Gilda display";
-  font-weight: 400;
-  font-size: 28px;
-  line-height: 50px;
-  width: 295px;
-  color: #262626;
+font-family: "Gilda display";
+font-weight: 400;
+font-size: 28px;
+line-height: 50px;
+width: 295px;
+color: #262626;
 }
 .description {
-  width: 295px;
-  font-family: "urbanist";
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 23px;;
+width: 295px;
+font-family: "urbanist";
+font-weight: 400;
+font-size: 15px;
+line-height: 23px;;
 }
 .text {
-  font-family: "Gilda display";
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 23px;
-  width: 84px;
-  color: #25A59E;
-  margin-left: 150px;
+font-family: "Gilda display";
+font-weight: 400;
+font-size: 15px;
+line-height: 23px;
+width: 84px;
+color: #25A59E;
+margin-left: 170px;
 }
 .forward {
-  margin-left: 250px;
-  transform: translateY(-20px);
-  width: 16px;
-  height: 16px;
+margin-left: 270px;
+transform: translateY(-20px);
+width: 16px;
+height: 16px;
 }
 .card-1 {
-  background-color: ;
+  background-color: #25A59E;
 }
 .title-1 {
-  font-family: "Gilda display";
-  font-weight: 400;
-  font-size: 28px;
-  line-height: 40px;
+font-family: "Gilda display";
+font-weight: 400;
+font-size: 28px;
+line-height: 40px;
+color: #FFFFFF;
 }
 .description-1 {
-  font-family: "Urbanist";
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  width: 295px;
+font-family: "Urbanist";
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+width: 295px;
+color: #FFFFFF;
 }
 .text-1 {
   font-family: "Gilda display";
@@ -217,6 +219,7 @@ margin-left: -500px;
   font-size: 15px;
   line-height: 17.66px;
   margin-left: 150px;
+  color: #FFFFFF;
 }
 .memory {
   margin-top: 500px;;
