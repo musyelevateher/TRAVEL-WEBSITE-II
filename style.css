@@ -326,8 +326,6 @@ margin-left: 70px;
 }
 .header-links {
 margin-left: 400px;
-display: inline-flex;
-gap: 30px;
 font-family: "urbanist";
 font-weight: 600;
 font-size: 16px;
@@ -336,5 +334,8 @@ color: #595959;
 padding-top: 30px;
 }
 ul {
-  
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  margin-left: -30px;
 }
