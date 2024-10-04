@@ -42,7 +42,7 @@ color: #25A59E;
 .image-container {
 position: absolute;
 max-width: 432px;
-margin:auto;
+margin-left: 15px;
 margin-top: -150px;
 }
 .blurry {
@@ -68,8 +68,8 @@ margin-left: 350px;
 height: 200px;
 }
 .destination {
-transform: translateY(230%);
-margin-left: 400px;
+transform: translateY(250%);
+margin-left: 420px;
 }
 .destination p {
 width: 335px;
@@ -85,7 +85,7 @@ font-size: 16px;
 line-height: 24px;
 width: 335px;
 height:4px;
-margin-top: 30px;
+margin-top: -20px;
 }
 .container {
 margin: auto;
@@ -97,6 +97,7 @@ font-family: "urbanist";
 font-weight: 700;
 font-size: 20px;
 line-height: 28px;
+margin-top: -3px;
 }
 .country {
 font-family: "urbanist";
@@ -113,12 +114,12 @@ border: #F2F2F2;
 font-family: "Urbanist";
 font-weight: 700;
 font-size: 24px;
-line-height: 36px;
+line-height: 30px;
 padding: 10px;
 }
 .location {
 margin: auto;
-margin-top: -5px;
+margin-top: 20px;
 }
 .location h3 {
 margin-top: -35px;
@@ -129,8 +130,8 @@ font-size: 18px;
 line-height: 32px;
 }
 .choose {
-margin-top: 400px;
-margin-left: 400px;
+margin-top: 350px;
+margin-left: 450px;
 }
 .choose p {
 font-family: "Gilda display";
@@ -138,7 +139,7 @@ font-weight: 400;
 font-size: 40px;
 line-height: 52px;
 text-align: center;
-margin-left: -500px;
+margin-left: -550px;
 margin-top: -30px;
 color: #262626;
 }
@@ -150,6 +151,7 @@ line-height: 24px;
 text-align: center;
 color: #595959;
 margin-left: -500px;
+margin-top: -30px;
 }
 .listcard {
 margin-left: 430px;
@@ -227,8 +229,8 @@ margin-left: 150px;
 color: #FFFFFF;
 }
 .memory {
-margin-top: 500px;;
-margin-left: 400px;
+margin-top: 500px;
+margin-left: 440px;
 }
 .make {
 font-family: "gilda display";
@@ -254,7 +256,7 @@ margin-left: -350px;
 transform: translateY(-100px);
 }
 .trip {
-margin-left: 425px;
+margin-left: 445px;
 font-family: "gilda display";
 font-weight: 400;
 font-size: 28px;
@@ -332,4 +334,7 @@ font-size: 16px;
 line-height: 24px;
 color: #595959;
 padding-top: 30px;
+}
+ul {
+  
 }
