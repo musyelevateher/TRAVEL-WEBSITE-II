@@ -97,13 +97,13 @@ font-family: "urbanist";
 font-weight: 700;
 font-size: 20px;
 line-height: 28px;
-margin-top: -3px;
+margin-top: 10px;
 }
 .country {
 font-family: "urbanist";
 font-weight: 600;
 font-size: 16px;
-line-height: 24px;
+line-height: 59px;
 }
 .rotate {
 transform: rotate(-180deg);
@@ -117,20 +117,20 @@ font-size: 24px;
 line-height: 30px;
 padding: 10px;
 }
-.location {
-margin: auto;
-margin-top: 20px;
-}
 .location h3 {
+margin: auto;
 margin-top: -35px;
 padding-left: 35px;
 font-family: "urbanist";
 font-weight: 600;
 font-size: 18px;
-line-height: 32px;
+line-height: 25px;
+}
+.location {
+  margin-top: -10px;
 }
 .choose {
-margin-top: 350px;
+margin-top: 400px;
 margin-left: 450px;
 }
 .choose p {
@@ -322,7 +322,7 @@ margin-left: 50px;
 }
 .youtube {
 margin-top: -40px;
-margin-left: 70px;
+margin-left: 110px;
 }
 .header-links {
 margin-left: 400px;
@@ -334,8 +334,8 @@ color: #595959;
 padding-top: 30px;
 }
 ul {
-  list-style: none;
-  display: flex;
-  gap: 30px;
-  margin-left: -30px;
+list-style: none;
+display: flex;
+gap: 30px;
+margin-left: -30px;
 }
