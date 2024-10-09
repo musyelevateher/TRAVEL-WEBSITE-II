@@ -4,7 +4,6 @@ body {
 .travel {
 display: flex;
 justify-content: space-between;
-margin: auto;
 height: 1px;
 font-family: "Gilda Display";
 font-size: 16px;
@@ -12,10 +11,7 @@ font-weight: 400;
 line-height: 18.83px;
 letter-spacing: 0.1em;
 text-align: left;
-}
-.nav {
-width: 375px;
-margin: auto;
+margin-left: 5px;
 }
 .harmburger-menu {
 display: flex;
@@ -25,15 +21,13 @@ width: 24px;
 height: 24px;
 }
 .journey {
-margin: auto;
-margin-left: 400px;
+margin-right:50px;
 margin-top: -100px;
 font-family: "Gilda Display";
 font-size: 20px;
 font-weight: 400;
 line-height: 65px;
 text-align: center;
-width: 375px;
 transform: translateY(100%);
 }
 .span {
@@ -41,15 +35,13 @@ color: #25A59E;
 }
 .image-container {
 position: absolute;
-max-width: 432px;
-margin-left: 15px;
+margin-left: -350px;
 margin-top: -150px;
 }
 .blurry {
 width: 400px;
 height: 400px;
 color: #44D5CD;
-margin: auto;
 margin-left: 400px;
 }
 .ellipse {
@@ -61,7 +53,6 @@ margin-top: -100px;
 transform: translateY(-25%);
 }
 .image-A {
-margin: auto;
 width: 432px;
 transform: translateY(-128%);
 margin-left: 350px;
@@ -69,7 +60,7 @@ height: 200px;
 }
 .destination {
 transform: translateY(250%);
-margin-left: 420px;
+margin-left: 50px;
 }
 .destination p {
 width: 335px;
@@ -88,8 +79,7 @@ height:4px;
 margin-top: -20px;
 }
 .container {
-margin: auto;
-margin-left: 400px;
+margin-left: 39px;
 transform: translateY(17%);
 }
 .name {
@@ -118,7 +108,6 @@ line-height: 30px;
 padding: 10px;
 }
 .location h3 {
-margin: auto;
 margin-top: -35px;
 padding-left: 35px;
 font-family: "urbanist";
@@ -154,7 +143,7 @@ margin-left: -500px;
 margin-top: -30px;
 }
 .listcard {
-margin-left: 430px;
+margin-left: 35px;
 width: 335px;
 height: 257px;
 }
@@ -230,7 +219,7 @@ color: #FFFFFF;
 }
 .memory {
 margin-top: 500px;
-margin-left: 440px;
+margin-left: 40px;
 }
 .make {
 font-family: "gilda display";
@@ -256,7 +245,7 @@ margin-left: -350px;
 transform: translateY(-100px);
 }
 .trip {
-margin-left: 445px;
+margin-left: 40px;
 font-family: "gilda display";
 font-weight: 400;
 font-size: 28px;
@@ -270,10 +259,10 @@ margin-left: 140px;
 }
 .movie {
 width: 375px;
-margin-left: 400px;
+margin-left: 40px;
 }
 .header-container {
-margin-left: 400px;
+margin-left: 40px;
 }
 .offer {
 font-family: "Gilda display";
@@ -296,7 +285,7 @@ left: 0;
 border: 0px;
 }
 .notification {
-margin-left: 400px;
+margin-left: 40px;
 width: 375px;
 margin-top: 80px;
 }
@@ -314,7 +303,7 @@ line-height: 24px;
 color: #595959;
 }
 .social-link {
-margin-left: 550px;
+margin-left: 50px;
 }
 .bird {
 margin-top: -40px;
@@ -325,7 +314,7 @@ margin-top: -40px;
 margin-left: 110px;
 }
 .header-links {
-margin-left: 400px;
+margin-left: 40px;
 font-family: "urbanist";
 font-weight: 600;
 font-size: 16px;
