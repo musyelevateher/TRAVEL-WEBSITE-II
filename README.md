@@ -26,7 +26,7 @@ This project is built using HTML and CSS and provides a visually appealing and r
 - A footer with additional links and information.
 
 ## Live-demo
-- Check out the live Demo of the project: [Live Demo]https://travel-website-swld.onrender.com
+- Check out the live Demo of the project: [Live Demo]https://travel-website-ii.onrender.com
 
 ## Technologies Used
 
@@ -111,11 +111,14 @@ The project includes media queries to adjust the layout for various screen sizes
 
 Include screenshots or GIFs of your project in action. This helps users understand what your project looks like and how it functions.
 
-![Screenshot 1](c:\Users\USER\Pictures\Screenshots\Screenshot (11).png)
+![Screenshot 1]
+c:\Users\USER\Pictures\Screenshots\Screenshot (16).png
 
-![Screenshot 2](c:\Users\USER\Pictures\Screenshots\Screenshot (7).png)
+![Screenshot 2]
+c:\Users\USER\Pictures\Screenshots\Screenshot (17).png
 
-![Screenshot 3](c:\Users\USER\Pictures\Screenshots\Screenshot (10).png)
+![Screenshot 3]
+c:\Users\USER\Pictures\Screenshots\Screenshot (18).png
 
 
 ## License
