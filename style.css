@@ -330,3 +330,52 @@ display: flex;
 gap: 30px;
 margin-left: -30px;
 }
+@media only screen and (min-width: 800px) {
+.image-container {
+transform: translateX(13%);
+}
+.destination {
+margin-left: 225px;
+}
+.container {
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+margin-top: 30px;
+margin-left: 220px;
+}
+.choose {
+transform: translateX(7%);
+}
+.listcard {
+margin-left: 205px;
+}
+.memory {
+margin-left: 205px;
+}
+.trip {
+margin-left: 205px;
+font-size: 30px;
+}
+.video {
+margin-left: 160px;
+}
+.header-container {
+margin-left: 203px;
+}
+.notification {
+margin-left: 205px;
+}
+.social-link {
+transform: translateX(27%);
+}
+.header-links {
+margin-left: 200px;
+}
+body {
+overflow-x: hidden;
+}
+} 
+
+  
+
