@@ -63,7 +63,7 @@ cd travel-website II
  ```html
  <!-- Header Section -->
   <div>
-    <header class="nav"> 
+  <header> 
       <div class="travel">
           <nav class="span">Travel</nav>
             <div class="harmburger-menu">
