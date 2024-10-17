@@ -29,6 +29,7 @@ font-weight: 400;
 line-height: 65px;
 text-align: center;
 transform: translateY(100%);
+color: #262626;
 }
 .span {
 color: #25A59E;
@@ -79,6 +80,9 @@ height:4px;
 margin-top: -20px;
 }
 .container {
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
 margin-left: 68px;
 transform: translateY(17%);
 }
@@ -376,6 +380,161 @@ body {
 overflow-x: hidden;
 }
 } 
+@media only screen and (min-width: 1244px) {
+  body {
+    overflow-x: hidden;
+  }
+  .travel {
+    margin-left: 110px;
+    margin-top: 30px;
+  }
+.navigation {
+width: 30px;
+height: 16px;
+color: #262626;
+transform: translateX(-100%);
+margin-left: -50px;
+  }
+.journey {
+font-size: 75px;
+line-height: 130px;
+transform: translateY(-20%);
+margin-left: -150px;
+margin: auto;
+color: #262626;;
+
+}
+.blurry {
+  width: 500px;
+  margin-top: -50px;
+  margin-left: 450px;
+}
+.ellipse {
+width: 500px;
+margin-top: -150px;
+}
+.image-A {
+margin-top: -1000px;
+margin-left: 450px;
+transform: translateY(-35%);
+}
+.image-container {
+  margin: auto;
+  margin-left: -2px;
+  transform: translateX(-3%);
+  margin-top: -250px;
+}
+.destination {
+  margin-left: 400px;
+  margin-top: 150px;
+}
+.destination p {
+font-size: 37px;
+  line-height: 82px;
+  width: 1162px;
+  margin-top: -120px;
+}
+.destination h1 {
+width: 599px;
+margin-left: 50px;
+margin-top: -50px;
+font-size: 12px;
+}
+.container {
+flex-direction: row;
+margin-top: 160px;
+width:1200px;
+margin-left: 50px;
+gap: 30px;
+}
+
+.choose {
+transform: translateY(-90%);
+text-align: center;
+
+}
+.choose h1 {
+font-size: 18px;
+line-height: 32px;
+width: 879px;
+transform: translateX(30%);
+}
+.listcard {
+display: flex;
+gap:20px;
+width: 1200px;
+margin-top: -130px;
+margin-left: 50px;
+  }
+  .card {
+margin-top: 16px;
+padding-left: 20px;
+  }
+  .card-1 {
+padding-left: 20px;
+  }
+.memory {
+margin-top: 100px;
+margin-left: 50px;
+}
+.thousands {
+width: 534px;
+}
+.img-group {
+margin-top: -250px;
+transform: translateX(60%);
+}
+.trip {
+width: 680px;
+text-align: center;
+line-height: 70px;
+font-size:30px;
+transform: translateX(20%);
+height: 168px;
+margin-top: 50px;
+}
+.video-background {
+width: 1440px;
+margin-left: 150px;
+}
+.header-container {
+display: flex;
+}
+.offer { 
+width: 743px;
+font-size: 59px;
+}
+.click {
+margin-top: 130px;
+transform: translateY(-50%);
+margin-left: 140px;
+width: 140px;
+height: 50px;  
+}
+.agent {
+width: 313px;
+}
+.notification {
+margin-top: -50px;
+}
+.social-link {
+width: 40px;
+height: 40px;
+margin-top: 30px;
+transform: translate(90%);
+}
+.header-links {
+width: 463px;
+transform: translateX(150%);
+margin-top: -70px;
+}
+}
+
+
+
+
+
+
 
   
 
