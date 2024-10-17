@@ -381,20 +381,20 @@ overflow-x: hidden;
 }
 } 
 @media only screen and (min-width: 1244px) {
-  body {
-    overflow-x: hidden;
-  }
-  .travel {
-    margin-left: 110px;
-    margin-top: 30px;
-  }
+body {
+overflow-x: hidden;
+}
+.travel {
+margin-left: 110px;
+margin-top: 30px;
+}
 .navigation {
 width: 30px;
 height: 16px; 
 color: #262626;
 transform: translateX(-100%);
 margin-left: -50px;
-  }
+}
 .journey {
 font-size: 75px;
 line-height: 130px;
@@ -402,12 +402,11 @@ transform: translateY(-20%);
 margin-left: -150px;
 margin: auto;
 color: #262626;;
-
 }
 .blurry {
-  width: 500px;
-  margin-top: -50px;
-  margin-left: 450px;
+width: 500px;
+margin-top: -50px;
+margin-left: 450px;
 }
 .ellipse {
 width: 500px;
@@ -419,20 +418,20 @@ margin-left: 450px;
 transform: translateY(-35%);
 }
 .image-container {
-  margin: auto;
-  margin-left: -2px;
-  transform: translateX(-3%);
-  margin-top: -250px;
+margin: auto;
+margin-left: -2px;
+transform: translateX(-3%);
+margin-top: -250px;
 }
 .destination {
-  margin-left: 400px;
-  margin-top: 150px;
+margin-left: 400px;
+margin-top: 150px;
 }
 .destination p {
 font-size: 37px;
-  line-height: 82px;
-  width: 1162px;
-  margin-top: -120px;
+line-height: 82px;
+width: 1162px;
+margin-top: -120px;
 }
 .destination h1 {
 width: 599px;
@@ -447,11 +446,9 @@ width:1200px;
 margin-left: 50px;
 gap: 30px;
 }
-
 .choose {
 transform: translateY(-90%);
 text-align: center;
-
 }
 .choose h1 {
 font-size: 18px;
@@ -465,14 +462,14 @@ gap:20px;
 width: 1200px;
 margin-top: -130px;
 margin-left: 50px;
-  }
-  .card {
+}
+.card {
 margin-top: 16px;
 padding-left: 20px;
-  }
-  .card-1 {
+}
+.card-1 {
 padding-left: 20px;
-  }
+}
 .memory {
 margin-top: 100px;
 margin-left: 50px;
