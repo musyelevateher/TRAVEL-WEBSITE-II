@@ -390,7 +390,7 @@ overflow-x: hidden;
   }
 .navigation {
 width: 30px;
-height: 16px;
+height: 16px; 
 color: #262626;
 transform: translateX(-100%);
 margin-left: -50px;
