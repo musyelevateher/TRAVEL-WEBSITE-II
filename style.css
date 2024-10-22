@@ -342,10 +342,13 @@ overflow-x: hidden;
 .navigation {
 width:25px;
 height:15px;
+margin-left: 150px;
 }
 .journey {
-font-size: 35px;
+font-size: 32px;
 line-height: 65px;
+margin-left: 150px;
+margin-top: -150px;
 }
 .blurry {
 position: absolute;
@@ -369,10 +372,11 @@ position: relative;
 margin: auto;
 transform: translateX(-40%);
 margin-top: -100px;
+margin-left: 90px;
 }
 .destination {
 margin-top: -450px;
-margin-left: 120px;
+margin-left: 260px;
 }
 .destination p {
 font-size: 20px;
@@ -392,7 +396,9 @@ margin-left:50px;
 width: 200px;
 }
 .choose {
-transform: translateY(-55%);
+transform: translateY(-80%);
+text-align: center;
+margin-right: 50px;
 }
 .choose h1 {
 font-size: 15px;
