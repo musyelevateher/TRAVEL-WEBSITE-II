@@ -149,6 +149,8 @@ margin-top: -30px;
 margin-left: 52px;
 width: 335px;
 height: 257px;
+display: grid;
+gap: 20px;
 }
 .card {
 border: solid #fdfafa;
@@ -352,7 +354,7 @@ margin-top: -150px;
 position: absolute;
 margin: auto;
 margin-left: 300px;
-width: 400px;
+width: 300px;
 }
 .ellipse {
 position: absolute;
@@ -587,6 +589,138 @@ transform: translateX(150%);
 margin-top: -70px;
 }
 }
+@media only screen and (min-width: 425px)  {
+body {
+overflow-x: hidden;
+}
+.blurry {
+width: 250px;
+margin: auto;
+margin-top: 150px;
+margin-left: 80px;
+}
+.ellipse {
+  width: 350px;
+  margin: auto;
+  margin-top: -150px;
+  margin-left: 50px;
+}
+.image-A {
+  margin: auto;
+}
+.image-container {
+margin: auto;
+margin-left: -2px;
+transform: translateX(-3%);
+margin-top: -250px;
+position: relative;
+}
+.destination {
+margin-left: 400px;
+margin-top: 250px;
+}
+.destination p {
+font-size: 37px;
+line-height: 82px;
+width: 1162px;
+margin-top: -120px;
+}
+.destination h1 {
+width: 599px;
+margin-left: 50px;
+margin-top: -50px;
+font-size: 12px;
+}
+.container {
+margin-top: 160px;
+width:1200px;
+margin-left: 50px;
+gap: 30px;
+}
+.choose {
+transform: translateY(-90%);
+text-align: center;
+}
+.choose h1 {
+font-size: 18px;
+line-height: 32px;
+width: 879px;
+transform: translateX(30%);
+}
+.listcard {
+gap:20px;
+width: 1200px;
+margin-top: -130px;
+margin-left: 50px;
+}
+.card {
+margin-top: 16px;
+padding-left: 20px;
+}
+.card-1 {
+padding-left: 20px;
+}
+.memory {
+margin-top: 100px;
+margin-left: 50px;
+}
+.thousands {
+width: 534px;
+}
+.img-group {
+margin-top: -250px;
+transform: translateX(60%);
+}
+.trip {
+width: 680px;
+text-align: center;
+line-height: 70px;
+font-size:30px;
+transform: translateX(30%);
+height: 168px;
+margin-top: 50px;
+}
+.video-background {
+width: 100%;
+margin-left: 150px;
+}
+.header-container {
+display: flex;
+}
+.offer { 
+width: 743px;
+font-size: 59px;
+margin-left: 180px;
+}
+.click {
+margin-top: 130px;
+transform: translateY(-50%);
+margin-left: 60px;
+width: 140px;
+height: 50px;  
+}
+.agent {
+width: 313px;
+}
+.notification {
+margin-top: -50px;
+margin-left: 250px;
+}
+.social-link {
+width: 40px;
+height: 40px;
+margin-top: 30px;
+margin-left: 90px;
+transform: translateX(390%);
+}
+.header-links {
+width: 463px;
+transform: translateX(150%);
+margin-top: -70px;
+}
+}
+
+
 
 
 
