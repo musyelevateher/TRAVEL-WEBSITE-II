@@ -550,9 +550,8 @@ transform: translateX(30%);
 height: 168px;
 margin-top: 50px;
 }
-.video-background {
+.video-background video {
 width: 100%;
-margin-left: 150px;
 }
 .header-container {
 display: flex;
